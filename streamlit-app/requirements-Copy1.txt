@@ -1,0 +1,6 @@
+boto3
+torch
+streamlit
+transformers
+docx2txt
+PyPDF4

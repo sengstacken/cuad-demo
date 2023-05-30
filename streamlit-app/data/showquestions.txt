@@ -1,0 +1,41 @@
+Q1: What is the Document Name?
+Q2: Who are the parties that signed the contract?
+Q3: What is the agreement date of the contract?
+Q4: What is the date in which the contract is effective?
+Q5: What date will the contract's initial term expire?
+Q6: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.
+Q7: What is the notice period required to terminate renewal?
+Q8: Which state/country's law governs the interpretation of the contract?
+Q9: Is there a clause that if a third party gets better terms in the contract, the buyer under the contract shall be entitled to those better terms?
+Q10: What is the restriction on the ability of a party to compete with the counterparty or operate in a certain geography / business / technology sector? 
+Q11: What is the exclusive dealing commitment with the counterparty? 
+Q12: What is the restriction from contracting or soliciting customers or partners of the counterparty?
+Q13: What are the competitive restriction exceptions, this includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers?
+Q14: What is the restriction on a party’s soliciting or hiring employees and/or contractors from the counterparty?
+Q15: What is the requirement on a party not to disparage the counterparty?
+Q16: What are the termination for convenience clauses, can a party terminate this  contract without cause?
+Q17: What are the terms granting one party a right of first refusal, right of first offer or right of first negotiation? 
+Q18: What are the clauses related to change of control?  
+Q19: What is the consent or notice required of a party if the contract is assigned to a third party?
+Q20: What are the terms for revenue / profit sharing?
+Q21: What are the restrictions on the ability of a party to raise or reduce prices of technology, goods, or services provided?
+Q22: What is the minimum commitment that one party must buy from the counterparty under the contract?
+Q23: What are the volume restrictions if one party’s use of the product/services exceeds certain threshold?
+Q24: What terms are related to IP ownership assignment?
+Q25: What terms are related to Joint IP ownership? 
+Q26: What terms are related to license grant?
+Q27: What terms limit the ability of a party to transfer the license being granted to a third party?
+Q28: What sections contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor? 
+Q29: What sections contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?
+Q30: What clauses grant one party an “enterprise,” “all you can eat” or unlimited usage license?
+Q31: What sections relate to irrevocable or perpetual license?  
+Q32: What sections relate to source code escrow?
+Q33: What text relates to post-termination services?
+Q34: What sections provide the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?
+Q35: What sections relate to uncapped liability?
+Q36: What text describes a cap on liability upon the breach of a party’s obligation? 
+Q37: What clauses would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?
+Q38: What is the duration of any warranty against defects or errors in technology, products, or services  provided under the contract?
+Q39: What are the requirements for insurance that must be maintained by one party for the benefit of the counterparty?
+Q40: What sections describe the covenant not to sue?
+Q41: What clauses relate to thrid party beneficairies? 
